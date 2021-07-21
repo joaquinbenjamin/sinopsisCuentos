@@ -1,0 +1,189 @@
+body {
+	
+	 background-image: url("imagenes/fondo.png");
+  /*margin: 0;*/
+  padding: 0;
+  font-family: helvetica,arial,freesans,clean,sans-serif;
+  color: black;
+  /*background: white;*/
+  font-size:   0.8em;
+  
+     /* width: 1024px;*/
+      margin: 0px auto;
+      background-color :cornsilk;
+
+    
+}
+
+
+.title {
+  color: red ; 
+  margin: 2% 5% 2% 2% ;
+  }
+  
+  .title2 {
+  color: pink ; 
+  margin: 2% 5% 2% 2% ;
+   font-size:   1.8em;;
+  }
+  /*****************************************/
+.barra{
+    background: transparent ;/**  blue;  **/
+	border-top:      1px #136c13;
+	border-left:     1px #136c13;
+	border-right:    1px #136c13;
+        border-bottom:   1px solid #136c13;
+	
+    float:  left;
+    width: 95%;
+    margin: 0 0 0 2% ;
+	
+  /*font-size:   1.5em;*/
+  
+ font-size:   1.8 em;;
+	
+}
+ 
+.barra UL {
+    list-style: none outside none;
+    margin: 0 0 0 0 ;
+	}
+
+.barra SPAN {
+    background: transparent;
+    display: block;
+    float: left;
+    padding: 5px 9px;
+    white-space: nowrap;
+	 color: white;
+	
+} 
+  h1 {
+  /*color: #283a10;*/
+  color: yellow;
+ text-shadow: 1px 1px 1px #b5dc7f;
+  padding: 0px;
+  font-size: 160%; }
+
+h2 {
+  /*color: #283a10;*/
+   color: red;
+  /*text-shadow: 1px 1px 1px #b5dc7f;*/
+ /* padding: 0px;*/
+  font-size: 140%;
+  
+
+
+}
+
+
+h3 {
+  /*color: #136c13;*/
+    color: pink;
+  text-shadow: 1px 1px 1px #b5dc7f;
+   padding: 2px 0px 0px 0px;
+  font-size: 120%; }
+
+h4, h5, h6 {
+  color: #136c13;
+  text-shadow: 1px 1px 1px #b5dc7f;
+  padding: 0px;
+  font-size: 110%; }
+
+
+#seleccionado {
+	
+	   background: pink;
+	   
+	   
+	/*border-top:      1px solid #136c13;*/
+	border-left:     1px solid #136c13;
+	border-right:    1px solid #136c13;
+   /* border-bottom:   1px solid #136c13;*/
+	 color: black;
+	    
+}
+
+#resenia {
+	/*background:  black;/*transparent;/**  blue;  **/
+background: transparent;
+	   float:      left;
+        width:      95%;
+	
+        margin:     2% 0 0 2% ;
+	
+	}
+
+#resenia p{
+  padding:       10px 0px 0px 0px;
+  color:         white;
+  background:    transparent;
+  font-size:     0.8em;
+  text-shadow:   0px 0px 0px #b5dc7f;
+     width:      80%;
+	 
+	    margin: 0px auto;
+       }
+
+	   
+	   #resenia UL {
+    list-style: none outside none;
+     width:      80%;
+	   margin: 2% auto;
+	color: pink;
+	}
+	   
+#comentarios {
+	background: transparent;/**  blue;  **/
+        float:      left;
+        width:      95%;
+        margin:     2% 0 0 2% ;
+	
+	}
+       
+#disqus_thread{
+  
+  padding:       2px 0px 0px 2px;
+  color:         white;
+  background:    pink;
+  /*font-size:     0.8em;*/
+ 
+    float:  left;
+    width: 95%;
+    margin: 0 0 0 2% ;
+}    
+
+#mensaje{
+	background: white;/**  blue;  **/
+        float:      left;
+        width:      95%;
+        margin:     2% 0 0 2% ;
+	
+	}
+
+# mensaje p{
+  padding:       0px 0px 0px 0px;
+  color:         black;
+  background:    transparent;
+ 
+        float:      left;
+        width:      95%;
+        margin:     2% 0 0 2% ;
+		font-size:     4 em;
+  
+       }
+	   strong {
+		    color: pink ; 
+	   }
+	   
+	    em {
+		    color: white ; 
+	   }
+	  img {
+		  
+		   float:      left;
+		   width: 320px;
+           height: 267px;
+           margin:     0 1% 0 2% ;
+	
+	  }
